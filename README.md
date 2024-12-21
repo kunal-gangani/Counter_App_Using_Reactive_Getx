@@ -44,6 +44,7 @@ Local Storage with GetStorage: The app saves the counter value to the device sto
 Increment and Decrement Functions: The incrementCounter() and decrementCounter() methods are used to update the counter and store the updated value.
 
 ## Screen Shots
+
+<img src = "https://github.com/user-attachments/assets/24a1f761-dda1-48e0-8690-29ed4de57d1f" height = "400em">
 <img src = "https://github.com/user-attachments/assets/eaeb9529-8b93-45bd-bd88-bcb1ec9e92f2" height = "400em">
-<img src = "https://github.com/user-attachments/assets/4de7575e-443b-4da9-b256-d65580e2c69c" height = "400em">
 
